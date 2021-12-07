@@ -4,8 +4,6 @@
 </span>
 <h3 align="center">Computer Science student at Unifil.</h3>
 
-- 🚹 I’m a guy.
-
 - 😁 I’m 22 years old.
 
 - ⚽ I live in Brazil.
