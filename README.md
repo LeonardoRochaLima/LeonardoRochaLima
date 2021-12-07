@@ -30,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardorochalima&show_icons=true&locale=en&layout=compact" alt="leonardorochalima" /></p>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leonardorochalima&skills=HTML,TypeScript,JSON,JavaScript,Java,SCSS,CSS,Python, PHP, C, Laravel,C%2B%2B,C%23,SCSS,Svelte&width=820&bg=808080"/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leonardorochalima&skills=HTML,TypeScript,JSON,JavaScript,Java,SCSS,CSS,Python, PHP, C,C%2B%2B,C%23,SCSS,Svelte&width=820&bg=808080"/>
 
