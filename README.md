@@ -32,3 +32,4 @@
 <codersrank-skills-chart username="leonardorochalima"></codersrank-skills-chart>
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leonardorochalima&skills=HTML,TypeScript,JSON,JavaScript,Java,SCSS,CSS,Python, PHP, C,C%2B%2B,C%23,SCSS,Svelte&width=820&bg=808080"/>
 
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leonardorochalima"/>
