@@ -11,18 +11,16 @@
 
 - ✍ I give classes to teenagers. [Londrinense Tech](https://www.instagram.com/tv/CWMVHGxABNo/?utm_medium=copy_link)
 
-- 🎉 I won 2021 turism Hackaton! [Sync Routine](https://app.rdstation.email/mail/7bc10e1c-97a9-4a3a-9962-de3a6ed09700?utm_campaign=alunos_de_ciencia_da_computacao_vencem_o_hackathon_do_turismo_2021&utm_medium=email&utm_source=RD+Station)
-
 - 📫 How to reach me? **leonardo.lima@edu.unifil.com**
 
 - 🎮 Fun fact **I like to play games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eron-pereira-95285b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eron-pereira" height="30" width="40" /></a>
-<a href="https://fb.com/eronpp.ponce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eronpp.ponce" height="30" width="40" /></a>
-<a href="https://instagram.com/eronponce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eronponce" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eronponcepereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eronponcepereira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leonardo-vin%C3%ADcius-r-7ba1a6118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-lima" height="30" width="40" /></a>
+<a href="https://www.facebook.com/arochaleeo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leonardo-lima" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arochaleo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardo-lima" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arochaleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leonardo-lima" height="30" width="40" /></a>
 </p>
 
 <h2 align="center"> Most used languages</h2>
