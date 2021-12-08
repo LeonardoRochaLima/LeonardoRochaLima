@@ -8,7 +8,7 @@
 
 - ⚽ I live in Brazil.
 
-- ✍ I give classes for teenagers on [Londrinense Tech](https://www.instagram.com/tv/CWMVHGxABNo/?utm_medium=copy_link)
+- ✍ I give classes for teenagers on [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52)
 
 - 📫 How to reach me? **leonardo.lima@edu.unifil.com**
 
