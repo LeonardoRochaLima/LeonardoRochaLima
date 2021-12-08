@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardorochalima&label=Profile%20views&color=0e75b6&style=flat" alt="leonardorochalima" /> </p>
 <span style="color: purple">
-<h1 align="center">Hey I’m Leonardo</h1>
+<h1 align="center">I’m Leonardo</h1>
 </span>
 <h3 align="center">Computer Science student at Unifil.</h3>
 
