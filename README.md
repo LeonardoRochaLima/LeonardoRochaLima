@@ -2,7 +2,7 @@
 <span style="color: purple">
 <h1 align="center">I’m Leonardo</h1>
 </span>
-<h3 align="center">Computer Science student at Unifil.</h3>
+<h3 align="center">Full Stack Developer at <a href="https://altatech.com.br/">Altatech</a>.</h3>
 
 - 😁 I’m 22 years old.
 
