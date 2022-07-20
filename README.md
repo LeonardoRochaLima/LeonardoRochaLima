@@ -4,8 +4,6 @@
 </span>
 <h3 align="center">Full Stack Developer at <a href="https://altatech.com.br/">Altatech</a>.</h3>
 
-<script>document.write(new Date().getFullYear())</script>
-
 - 😁 I’m 23 years old.
 
 - ⚽ I live in Brazil.
