@@ -8,9 +8,9 @@
 
 - ⚽ I live in Brazil.
 
-- ✍ I give classes for teenagers on [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52)
+- ✍ I gived classes for teenagers on [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52)
 
-- 📫 How to reach me? **leonardo.lima@edu.unifil.com**
+- 📫 How to reach me? **leonardorocha.limaa@gmail.com**
 
 - 🎮 Fun fact **I like to play games**
 
