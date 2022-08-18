@@ -6,6 +6,9 @@
 
 <p> <img align="right" src="https://github.com/LeonardoRochaLima/LeonardoRochaLima/blob/main/coding.gif" alt="gifcoding" width="" height="" /> </p>
 
+<br>
+<br>
+
 ### ✨ About :
 - 😁 I’m 23 years old.
 - ⚽ I live in Brazil.
@@ -13,6 +16,10 @@
 - 📫 How to reach me? **leonardorocha.limaa@gmail.com**
 - 🎮 Fun fact **I like to play games**
 
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <div align="center">
