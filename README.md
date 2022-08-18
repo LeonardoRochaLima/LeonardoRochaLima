@@ -8,6 +8,7 @@
 
 <p> <img align="right" src="https://github.com/LeonardoRochaLima/LeonardoRochaLima/blob/main/coding.gif" alt="gifcoding" width="400" height="250" /> </p>
 
+<br>
 
 ### ✨ About :
 - 😁 I’m 23 years old.
