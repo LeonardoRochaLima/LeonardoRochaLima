@@ -12,7 +12,7 @@
 ### ✨ About :
 - 😁 I’m 23 years old.
 - ⚽ I live in Brazil.
-- ✍ I gived classes for teenagers on [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52)
+- ✍ I gived classes for teenagers on <b> [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52) </b>
 - 📫 How to reach me? **leonardorocha.limaa@gmail.com**
 - 🎮 Fun fact **I like to play games**
 
