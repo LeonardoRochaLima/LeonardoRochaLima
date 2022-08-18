@@ -4,7 +4,7 @@
 </span>
 <h3 align="center">Full Stack Developer at <a href="https://altatech.com.br/">Altatech</a>.</h3>
 
-<p> <img align="right" src="https://github.com/LeonardoRochaLima/LeonardoRochaLima/blob/main/coding.gif" alt="gifcoding" width="" height="" /> </p>
+<p> <img align="right" src="https://github.com/LeonardoRochaLima/LeonardoRochaLima/blob/main/coding.gif" alt="gifcoding" width="500" height="300" /> </p>
 
 <br>
 <br>
