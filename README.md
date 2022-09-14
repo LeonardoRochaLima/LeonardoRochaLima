@@ -50,8 +50,11 @@
   
 </p>
 </div>
+<div align="center"> 
+
+  ### 💻🔧 Language and Tools:
   
-### 💻🔧 Language and Tools:
+</div>
   
 <div style="display: inline_block"><br>    
   <a href="https://www.typescriptlang.org/" alt="TypeScript">
