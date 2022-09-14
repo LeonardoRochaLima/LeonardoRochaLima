@@ -13,9 +13,9 @@
 ### ✨ About:
 - 😁 I’m 23 years old;
 - ⚽ I live in Brazil;
-- ✍ I gived classes for teenagers on <b> [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52) </b>;
-- 🎮 Fun fact **I like to play games**;
-- 🎓📜 I'm graduated in computer science;
+- ✍🏻 I gived classes for teenagers on <b> [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52) </b>;
+- 🎓 I'm graduated in computer science;
+- 🎮 Fun fact: **I like to play games**;
 
 <br>
 <br>
@@ -56,7 +56,7 @@
   ### 💻🔧 Language and Tools:
   
 <div style="display: inline_block"><br>    
-  <a href="https://www.typescriptlang.org/" alt="TypeScript">
+  <a placeholder="TypeScript" href="https://www.typescriptlang.org/" alt="TypeScript">
     <img align="center" alt="Leo-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" alt="JavaScript">
