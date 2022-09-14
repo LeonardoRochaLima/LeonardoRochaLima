@@ -50,7 +50,9 @@
   
 </p>
 </div>
+  
 ### 💻🔧 Language and Tools:
+  
 <div style="display: inline_block"><br>    
   <a href="https://www.typescriptlang.org/" alt="TypeScript">
     <img align="center" alt="Leo-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
