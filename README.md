@@ -10,7 +10,7 @@
 
 <br>
 
-### ✨ About :
+### ✨ About:
 - 😁 I’m 23 years old.
 - ⚽ I live in Brazil.
 - ✍ I gived classes for teenagers on <b> [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52) </b>
@@ -50,7 +50,7 @@
   
 </p>
 </div>
-
+### 💻🔧 Language and Tools:
 <div style="display: inline_block"><br>    
   <a href="https://www.typescriptlang.org/" alt="TypeScript">
     <img align="center" alt="Leo-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
