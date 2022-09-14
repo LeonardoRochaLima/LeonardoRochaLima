@@ -11,10 +11,11 @@
 <br>
 
 ### ✨ About:
-- 😁 I’m 23 years old.
-- ⚽ I live in Brazil.
-- ✍ I gived classes for teenagers on <b> [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52) </b>
-- 🎮 Fun fact **I like to play games**
+- 😁 I’m 23 years old;
+- ⚽ I live in Brazil;
+- ✍ I gived classes for teenagers on <b> [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52) </b>;
+- 🎮 Fun fact **I like to play games**;
+- 🎓📜 I'm graduated in computer science;
 
 <br>
 <br>
@@ -53,8 +54,6 @@
 <div align="center"> 
 
   ### 💻🔧 Language and Tools:
-  
-</div>
   
 <div style="display: inline_block"><br>    
   <a href="https://www.typescriptlang.org/" alt="TypeScript">
@@ -128,5 +127,6 @@
 ![Snake animation](https://github.com/LeonardoRochaLima/LeonardoRochaLima/blob/output/github-contribution-grid-snake.svg)
 
 <br>
+</div>
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leonardorochalima&skills=Java,PHP,Python,HTML,CSS,SCSS,JavaScript,JSON,Other&bg=808080&show-other-skills=true&width=800"/>
