@@ -11,7 +11,7 @@
 <br>
 
 ### ✨ About:
-- 😁 I’m 23 years old;
+- 😁 I’m 24 years old;
 - ⚽ I live in Brazil;
 - ✍🏻 I gived classes for teenagers on <b> [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52) </b>;
 - 🎓 I'm graduated in computer science;
