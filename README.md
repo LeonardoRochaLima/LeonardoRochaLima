@@ -2,7 +2,7 @@
 <span style="color: purple">
 <h1 align="center">I’m Leonardo</h1>
 </span>
-<h3 align="center">Full Stack Developer at <a href="http://rentcars.com/">Rentcars</a>.</h3>
+<h3 align="center">Full Stack Developer at <a href="https://www.realinvestor.com.br/">Real Investor</a>.</h3>
 
 <br>
 
@@ -11,7 +11,7 @@
 <br>
 
 ### ✨ About:
-- 😁 I’m 24 years old;
+- 😁 I’m 26 years old;
 - ⚽ I live in Brazil;
 - ✍🏻 I gived classes for teenagers on <b> [Londrinense Tech](https://colegiolondrinense.com.br/home/noticia/52) </b>;
 - 🎓 I'm graduated in computer science;
@@ -94,9 +94,6 @@
   </a>
   <a href="https://flutter.dev/" alt="Flutter">
     <img align="center" alt="Leo-Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  </a>
-  <a href="https://www.gatsbyjs.com/" alt="Gatsby">
-    <img align="center" alt="Leo-Gatsby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg">
   </a>
   <a href="https://git-scm.com/" alt="Git">
     <img align="center" alt="Leo-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
