@@ -101,9 +101,6 @@
   <a href="https://www.java.com/pt-BR/" alt="Java">
     <img align="center" alt="Leo-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a>
-  <a href="https://laravel.com/" alt="Laravel">
-    <img align="center" alt="Leo-Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  </a>
   <a href="https://www.linux.org/" alt="Linux">
     <img align="center" alt="Leo-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   </a>
