@@ -122,5 +122,3 @@
 
 <br>
 </div>
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leonardorochalima&skills=Java,PHP,Python,HTML,CSS,SCSS,JavaScript,JSON,Other&bg=808080&show-other-skills=true&width=800"/>
