@@ -26,9 +26,9 @@ Full Stack developer building **scalable web applications**, **microservices**, 
 
 | Period | Focus |
 |--------|--------|
-| **2025 – now** | Data pipelines on **GCP** (BigQuery, Cloud SQL, Dataflow, Pub/Sub, Composer); relational & dimensional modeling; **IAM** & authorized views |
-| **2023 – 2025** | Critical systems, **microservices**, business-driven features |
-| **2022 – 2023** | Web apps, automation, **microservices**; internal products & corporate tooling |
+| **2025&nbsp;–&nbsp;now** | Data pipelines on **GCP** (BigQuery, Cloud SQL, Dataflow, Pub/Sub, Composer); relational & dimensional modeling; **IAM** & authorized views |
+| **2023&nbsp;–&nbsp;2025** | Critical systems, **microservices**, business-driven features |
+| **2022&nbsp;–&nbsp;2023** | Web apps, automation, **microservices**; internal products & corporate tooling |
 
 ### 💻🔧 Languages & tools
 
