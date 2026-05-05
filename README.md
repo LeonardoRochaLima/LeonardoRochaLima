@@ -32,99 +32,51 @@ Full Stack developer building **scalable web applications**, **microservices**, 
 
 ### 💻🔧 Languages & tools
 
+<!-- Grelha com largura máx. ~920px: vários ícones por linha (o GitHub ignora muito CSS em div; tabela renderiza bem). -->
 <div align="center">
-<div style="display: inline_block"><br>
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  </a>
-  <a href="https://reactjs.org/" title="React">
-    <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://vuejs.org/" title="Vue.js">
-    <img align="center" alt="Vue.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  </a>
-  <a href="https://www.python.org/" title="Python">
-    <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-    <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-    <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  </a>
-  <a href="https://angular.io/" title="Angular">
-    <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  </a>
-  <a href="https://www.arduino.cc/" title="Arduino">
-    <img align="center" alt="Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  </a>
-  <a href="https://getbootstrap.com/" title="Bootstrap">
-    <img align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  </a>
-  <a href="https://www.cprogramming.com/" title="C">
-    <img align="center" alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  </a>
-  <a href="https://dart.dev/" title="Dart">
-    <img align="center" alt="Dart" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  </a>
-  <a href="https://www.figma.com/" title="Figma">
-    <img align="center" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  </a>
-  <a href="https://flutter.dev/" title="Flutter">
-    <img align="center" alt="Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
-  <a href="https://github.com/" title="GitHub">
-    <img align="center" alt="GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@9.14.0/icons/github.svg" />
-  </a>
-  <a href="https://www.java.com/" title="Java">
-    <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  </a>
-  <a href="https://www.linux.org/" title="Linux">
-    <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  </a>
-  <a href="https://www.mysql.com/" title="MySQL">
-    <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  </a>
-  <a href="https://nodejs.org/" title="Node.js">
-    <img align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  </a>
-  <a href="https://www.php.net/" title="PHP">
-    <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  </a>
-  <a href="https://laravel.com/" title="Laravel">
-    <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  </a>
-  <a href="https://cloud.google.com/" title="Google Cloud">
-    <img align="center" alt="Google Cloud" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  </a>
-  <a href="https://cloud.google.com/bigquery" title="BigQuery">
-    <img align="center" alt="BigQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@9.14.0/icons/googlebigquery.svg" />
-  </a>
-  <a href="https://cloud.google.com/composer" title="Cloud Composer (Airflow)">
-    <img align="center" alt="Apache Airflow" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  </a>
-</div>
+
+<table align="center" width="920">
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img alt="JavaScript" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a></td>
+      <td align="center"><a href="https://reactjs.org/" title="React"><img alt="React" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a></td>
+      <td align="center"><a href="https://vuejs.org/" title="Vue.js"><img alt="Vue.js" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a></td>
+      <td align="center"><a href="https://www.python.org/" title="Python"><img alt="Python" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img alt="HTML" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img alt="CSS" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a></td>
+      <td align="center"><a href="https://angular.io/" title="Angular"><img alt="Angular" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a></td>
+      <td align="center"><a href="https://www.arduino.cc/" title="Arduino"><img alt="Arduino" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://getbootstrap.com/" title="Bootstrap"><img alt="Bootstrap" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a></td>
+      <td align="center"><a href="https://www.cprogramming.com/" title="C"><img alt="C" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a></td>
+      <td align="center"><a href="https://dart.dev/" title="Dart"><img alt="Dart" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></a></td>
+      <td align="center"><a href="https://www.figma.com/" title="Figma"><img alt="Figma" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a></td>
+      <td align="center"><a href="https://flutter.dev/" title="Flutter"><img alt="Flutter" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a></td>
+      <td align="center"><a href="https://git-scm.com/" title="Git"><img alt="Git" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a></td>
+      <td align="center"><a href="https://github.com/" title="GitHub"><img alt="GitHub" height="48" width="56" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@9.14.0/icons/github.svg" /></a></td>
+      <td align="center"><a href="https://www.java.com/" title="Java"><img alt="Java" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a></td>
+      <td align="center"><a href="https://www.linux.org/" title="Linux"><img alt="Linux" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.mysql.com/" title="MySQL"><img alt="MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a></td>
+      <td align="center"><a href="https://nodejs.org/" title="Node.js"><img alt="Node.js" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a></td>
+      <td align="center"><a href="https://www.php.net/" title="PHP"><img alt="PHP" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a></td>
+      <td align="center"><a href="https://laravel.com/" title="Laravel"><img alt="Laravel" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></a></td>
+      <td align="center"><a href="https://cloud.google.com/" title="Google Cloud"><img alt="Google Cloud" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a></td>
+      <td align="center"><a href="https://cloud.google.com/bigquery" title="BigQuery"><img alt="BigQuery" height="48" width="56" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@9.14.0/icons/googlebigquery.svg" /></a></td>
+      <td align="center"><a href="https://cloud.google.com/composer" title="Cloud Composer (Airflow)"><img alt="Apache Airflow" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" /></a></td>
+      <td align="center"><a href="https://www.docker.com/" title="Docker"><img alt="Docker" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center"><sub>Also used professionally: Cloud SQL, Dataflow, Pub/Sub, IAM &amp; authorized views · Agile / Scrum · microservices architecture</sub></p>
+
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/LeonardoRochaLima">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LeonardoRochaLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats" />
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRochaLima&layout=compact&langs_count=8&theme=dark" alt="Top languages" />
-  </a>
-</div>
 
 <div align="center">
 
@@ -138,11 +90,4 @@ Full Stack developer building **scalable web applications**, **microservices**, 
   <a href="https://twitter.com/arochaleeo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
 
-</div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/LeonardoRochaLima/LeonardoRochaLima/output/github-contribution-grid-snake.svg)
-
-<br>
 </div>
