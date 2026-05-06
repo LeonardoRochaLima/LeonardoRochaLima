@@ -14,7 +14,7 @@
 
 Full Stack developer building **scalable web applications**, **microservices**, and **data pipelines in the cloud**. I care about data modeling (relational & dimensional), integration between systems, and solid engineering in production.
 
-- 😁 I'm </span> years old
+- 😁 I'm 27 years old
 - 🇧🇷 Based in Brazil
 - ✍️ I **taught** technology to teenagers in a school outreach program
 - 🎓 B.Sc. in **Computer Science** — [UNIFIL](https://unifil.br) (Centro Universitário Filadélfia)
